@@ -1,6 +1,7 @@
 # NickLearning
 ## This is Nick's Learning project
 ### English
+1. [Typing Practice](https://www.keybr.com)
 
 ### Coding
 1. [Youtube coding Knowledge](https://www.youtube.com/user/ProgrammingKnowledge/playlists)
