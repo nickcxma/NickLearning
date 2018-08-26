@@ -8,3 +8,5 @@
 
 ### Drawing
 1. [Zin Lim](https://www.zinlim.com/)
+2. [Zin Lim Youtube Channel](https://www.youtube.com/channel/UCXLrVStuoz-DlVVwfkoQ4jA
+
