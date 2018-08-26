@@ -3,8 +3,9 @@
 ### English
 
 ### Coding
-1. [Git Simple Guide](http://rogerdudler.github.io/git-guide/)
-2. [Mark Down Guide](https://www.markdownguide.org/basic-syntax)
+1. [Youtube coding Knowledge](https://www.youtube.com/user/ProgrammingKnowledge/playlists)
+2. [Git Simple Guide](http://rogerdudler.github.io/git-guide/)
+3. [Mark Down Guide](https://www.markdownguide.org/basic-syntax)
 
 ### Drawing
 1. [Zin Lim](https://www.zinlim.com/)
