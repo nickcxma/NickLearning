@@ -2,7 +2,7 @@
 ## This is Nick's Learning project
 
 ### Amarican High School
-1. [AMH](https://ahs-fusd-ca.schoolloop.com/)
+1. [AMH School Loop](https://ahs-fusd-ca.schoolloop.com/)
 2. [2018-2019 School Canlendar](https://www.fremont.k12.ca.us/cms/lib/CA01000848/Centricity/Domain/10/Instructional%20Calendar%2018.19_w%20reporting%20dates.pdf)
 
 ### English
