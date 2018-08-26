@@ -19,3 +19,6 @@
 1. [Zin Lim](https://www.zinlim.com/)
 2. [Zin Lim Youtube Channel](https://www.youtube.com/channel/UCXLrVStuoz-DlVVwfkoQ4jA)
 
+### Tools
+1. [Google Docs](https://docs.google.com)
+2. [Gmail](https://gmail.com)
