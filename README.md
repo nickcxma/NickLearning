@@ -2,5 +2,6 @@
 ## This is Nick's Learning project
 ### English
 ### Coding
--[Git Simple Guide](http://rogerdudler.github.io/git-guide/)
+1.[Git Simple Guide](http://rogerdudler.github.io/git-guide/)
+2.[Mark Down Guide](https://www.markdownguide.org/basic-syntax)
 ### Drawing
