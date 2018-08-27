@@ -20,6 +20,11 @@
 2. [Zin Lim Youtube Channel](https://www.youtube.com/channel/UCXLrVStuoz-DlVVwfkoQ4jA)
 3. [打哈气 方力钧](https://www.google.com/search?q=%E6%96%B9%E5%8A%9B%E9%92%A7&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj0q6CW9YvdAhUNHHwKHaPBB24Q_AUICigB&biw=1280&bih=617)
 4. [向日葵 陈冲](https://www.youtube.com/watch?v=474K3PZjJSg)
+5. [陈丹青](https://www.google.com/search?biw=1280&bih=617&tbm=isch&sa=1&ei=Sz6DW7i-BsKQ0wK1uaG4AQ&q=%E9%99%88%E4%B8%B9%E9%9D%92&oq=%E9%99%88%E4%B8%B9%E9%9D%92&gs_l=img.3...7274.9099.0.9743.9.9.0.0.0.0.90.767.9.9.0....0...1c.1j4.64.img..0.8.686...0j35i39k1j0i30k1j0i8i30k1.0.xNUw8Zqf6Mo)
+6. [Michael Chelsea Johnson](https://www.google.com/search?biw=1280&bih=617&tbm=isch&sa=1&ei=VT6DW9L8L4rw_wScm4TICA&q=Michael+Chelsea+Johnson&oq=Michael+Chelsea+Johnson&gs_l=img.12...102924.102924.0.104975.1.1.0.0.0.0.90.90.1.1.0....0...1c.2.64.img..0.0.0....0.zDdFblYZ0Uc)
+7. [Veronika Lobareva](https://www.google.com/search?biw=1280&bih=617&tbm=isch&sa=1&ei=vz6DW9nDJamL0gL_-5WgDg&q=veronika+lobareva&oq=veronika+lobareva&gs_l=img.12..0j0i10i24k1.41771.41771.0.43409.1.1.0.0.0.0.85.85.1.1.0....0...1c.2.64.img..0.1.83....0._InjgAFnAyM)
+8. [Lucian Freud](https://www.google.com/search?biw=1280&bih=617&tbm=isch&sa=1&ei=7D6DW_2BCo_w_wTa96eACQ&q=Lucian+Freud&oq=Lucian+Freud&gs_l=img.12..0l10.55679.55679.0.57140.1.1.0.0.0.0.92.92.1.1.0....0...1c.2.64.img..0.1.91....0.0v0ue0hQelI)
+9. [弗洛伊德, Lucian Freud的爷爷,精神分析学的创始人](https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7)
 
 ### Tools
 1. [Google Docs](https://docs.google.com)
