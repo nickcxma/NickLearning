@@ -5,7 +5,7 @@
 1. [AMH School Loop](https://ahs-fusd-ca.schoolloop.com/)
 2. [AMH Bell Schedule](http://ahs-fusd-ca.schoolloop.com/file/1325750244950/1325750504298/9184346992159392099.pdf)
 3. [2018-2019 School Canlendar](https://fremontusd.com/forward/district/2018/Instructional-Calendar-18-19.pdf)
-4. [2018-2019 School Canlendar](https://fremontusd.com/forward/district/2019/School-Calendar-2019-2020-web.pdf)
+4. [2019-2020 School Canlendar](https://fremontusd.com/forward/district/2019/School-Calendar-2019-2020-web.pdf)
 
 ### English
 1. [Typing Practice](https://www.keybr.com)
